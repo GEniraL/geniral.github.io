@@ -1,0 +1,7 @@
+header + p {
+    font-size: 12px;
+    color: green;
+}
+article p:last-child  {
+    color: #ff9999;
+}

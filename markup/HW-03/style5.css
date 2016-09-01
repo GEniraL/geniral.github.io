@@ -1,0 +1,11 @@
+/*
+- background: #ddebf7; голубой
+- background: #f2f2de; бежевый
+*/
+
+tr:nth-child(even) {
+    background: #ddebf7;
+}
+td:nth-child(2n+3) {
+    background: #f2f2de;
+}

@@ -1,0 +1,22 @@
+a {
+    color: #fff;
+    font: bold 16px Economica;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 8px 14px;
+
+}
+a:hover {
+    background: #eee;
+    color: #aaa;
+}
+ul {
+    width: 900px;
+    margin: auto;
+    background: #a64dff;
+    line-height: 32px;
+}
+li {
+    display: inline-block;
+    transform: scaleX(0.8);
+}

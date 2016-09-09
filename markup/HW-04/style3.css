@@ -1,0 +1,29 @@
+ul {
+    width: 500px;
+    margin: 0 auto;
+}
+li {
+    display: inline-block;
+
+}
+a {
+    text-decoration: none;
+    font: 12px Arial;
+    color: #aa5bff;
+}
+.p-dec a:hover {
+    background: #aa5bff;
+    color: white;
+}
+.p-dec a {
+    border: solid 1px #ccc;
+    /*padding: 3px 7px;*/
+    display: block;
+    border-radius: 4px;
+    width: 22px;
+    text-align: center;
+    line-height: 22px;
+}
+.p-text a {
+    margin: 0 8px;
+}
